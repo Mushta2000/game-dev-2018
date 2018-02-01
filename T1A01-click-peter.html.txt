@@ -1,0 +1,5 @@
+<input type=button value="1" onclick="{
+
+	document.getElementById('myDiv01').innerHTML += 'there<br>'
+	document.getElementById('myDiv01').innerHTML += '<br>'
+}">
